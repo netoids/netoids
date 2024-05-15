@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Linaldo! I am a university student at UFRPE in Brazil.
 
-  - 🌱 I’m currently Flutter 
+  - 🌱 I’m currently learning Flutter 
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
