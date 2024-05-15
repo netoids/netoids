@@ -39,7 +39,7 @@
 
 <!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/netoids/netoids/assets/75789529/ab9bb76a-93d3-44f3-a30f-3beb94622ebe" alt="Imagem">
 </p>
 
 ## 🔥 Skills
