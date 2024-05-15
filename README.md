@@ -1,4 +1,4 @@
-### OLá Mundo!
+<h2 align="Center">Olá! Sou Linaldo</h2>
 
 <h2 align="left">Olá! Sou Linaldo</h2>
 
