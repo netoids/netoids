@@ -32,9 +32,15 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+
+# Python:
 - [Python - Exploratory data analysis](https://github.com/JVitorAccelerator/MD-Sincov)
 
-## Flutter:
+# Flutter:
+
+
+#SQL:
+
 
 
 <!-- GIF -->
