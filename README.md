@@ -39,7 +39,9 @@
 ### Flutter:
 - [Lumi - Chatbot com analise de sentimentos](https://github.com/netoids/ChatbotWithLLM-Flutter)
 
-### SQL:
+### HTML+CSS:
+- [Game Site Idea - Interface de site para um jogo imaginário](https://github.com/netoids/Site_Game_RPG_Idea)
+- [Restaurante Menu - Menu simples para um restaurante](https://github.com/netoids/Restaurante_Menu)
 
 
 
