@@ -37,7 +37,7 @@
 - [Python - Exploratory data analysis](https://github.com/JVitorAccelerator/MD-Sincov)
 
 ### Flutter:
-
+- [Lumi - Chatbot com analise de sentimentos](https://github.com/netoids/ChatbotWithLLM-Flutter)
 
 ### SQL:
 
