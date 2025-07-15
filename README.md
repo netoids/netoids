@@ -34,6 +34,7 @@
 ## Portfolio:
 
 ### Python:
+- [Python - Exercícios de Lógica](https://github.com/netoids/Atividades-Python)
 - [Python - Exploratory data analysis](https://github.com/JVitorAccelerator/MD-Sincov)
 
 ### Flutter:
