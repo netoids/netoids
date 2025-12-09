@@ -27,9 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linaldo-neto-382845219/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/linaldoquirino)
 
-<!-- GithubStats -->
-![Netoids GitHub stats](https://github-readme-stats.vercel.app/api?username=netoids&show_icons=true&theme=gotham)
-
 <!-- Portfolio -->
 ## Portfolio:
 
