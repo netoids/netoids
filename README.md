@@ -32,7 +32,7 @@
 
 ### Python:
 - [Python - Exercícios de Lógica](https://github.com/netoids/Atividades-Python)
-- [Python - Exploratory data analysis](https://github.com/JVitorAccelerator/MD-Sincov)
+- [Python - Exploratory data analysis](https://github.com/netoids/sincov-data-dashboard)
 
 ### Flutter:
 - [Lumi - Chatbot com analise de sentimentos](https://github.com/netoids/ChatbotWithLLM-Flutter)
