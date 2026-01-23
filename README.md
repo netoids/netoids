@@ -36,11 +36,11 @@
 
 ### Flutter:
 - [Lumi - Chatbot with Sentiment Analysis](https://github.com/netoids/ChatbotWithLLM-Flutter)
-- [Lumi - Chatbot with Sentiment Analysis](https://github.com/netoids/ChatbotWithLLM-Flutter)
+- [Flutter E-Commerce Mobile App](https://github.com/netoids/ChatbotWithLLM-Flutter)
 
 ### HTML+CSS:
-- [Game Site Idea - Interface de site para um jogo imaginário](https://github.com/netoids/Site_Game_RPG_Idea)
-- [Restaurante Menu - Menu simples para um restaurante](https://github.com/netoids/Restaurante_Menu)
+- [UI/UX project](https://github.com/netoids/Site_Game_RPG_Idea)
+- [Restaurant Menu Web Interface](https://github.com/netoids/Restaurante_Menu)
 
 
 
