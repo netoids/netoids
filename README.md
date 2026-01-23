@@ -31,11 +31,12 @@
 ## Portfolio:
 
 ### Python:
-- [Python - Exercícios de Lógica](https://github.com/netoids/Atividades-Python)
+- [Python - Logic Exercises](https://github.com/netoids/Atividades-Python)
 - [Python - Exploratory data analysis](https://github.com/netoids/sincov-data-dashboard)
 
 ### Flutter:
-- [Lumi - Chatbot com analise de sentimentos](https://github.com/netoids/ChatbotWithLLM-Flutter)
+- [Lumi - Chatbot with Sentiment Analysis](https://github.com/netoids/ChatbotWithLLM-Flutter)
+- [Lumi - Chatbot with Sentiment Analysis](https://github.com/netoids/ChatbotWithLLM-Flutter)
 
 ### HTML+CSS:
 - [Game Site Idea - Interface de site para um jogo imaginário](https://github.com/netoids/Site_Game_RPG_Idea)
