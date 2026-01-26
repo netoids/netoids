@@ -33,6 +33,7 @@
 ### Python:
 - [Python - Logic Exercises](https://github.com/netoids/Atividades-Python)
 - [Python - Exploratory data analysis](https://github.com/netoids/sincov-data-dashboard)
+- [Python - Machine Learning Application](https://drive.google.com/drive/folders/13S5AI6tKwl4WCrH1fTlhAi8GF2b7ti77)
 
 ### Flutter:
 - [Lumi - Chatbot with Sentiment Analysis](https://github.com/netoids/ChatbotWithLLM-Flutter)
