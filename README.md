@@ -6,18 +6,16 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Linaldo! I am a university student at UFRPE in Brazil.
+  Hi, I'm Linaldo Neto! 👨‍💻 Information Systems Student at UFRPE | Flutter Developer | Tech Theory Enthusiast
 
-  - 🌱 I’m currently learning Flutter 
-
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 I am looking for my first job opportunity.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 25 years old, currently living in Brazil. I have a good understanding of English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
+  - 💬 I am 27 years old, currently living in Brazil. I have a good understanding of English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning.
 
   - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
 </details>
